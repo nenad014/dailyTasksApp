@@ -1,0 +1,17 @@
+.isDone {
+    background-color: forestgreen;
+    color: oldlace;
+}
+.isStarted {
+    background-color: orangered;
+    color: oldlace;
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+}
+
+.ftr {
+    padding: 20px 0;
+}
